@@ -24,8 +24,7 @@ A real-time scalable 3-tier web application deployed on AWS using Elastic Beanst
 - Health monitoring & auto recovery
 
 ## 🔗 Live Application
-http://product-management-system-env-1.eba-b38wssze.ap-south-1.elasticbeanstalk.com/
-
+http://product-management-system-env-1-env.eba-ev2zjtca.ap-south-1.elasticbeanstalk.com/
 
 ## 🧪 Test Endpoints
 - `/` → App status
